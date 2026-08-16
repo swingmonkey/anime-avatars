@@ -4,349 +4,649 @@
     "file": "avatars/avatar_001.jpg",
     "thumb": "thumbs/avatar_001.jpg",
     "size": 32063,
-    "source": ""
+    "source": "anime256/102917-156.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "梦幻"
   },
   {
     "id": 2,
     "file": "avatars/avatar_002.jpg",
     "thumb": "thumbs/avatar_002.jpg",
     "size": 30080,
-    "source": ""
+    "source": "anime256/106001-615.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 3,
     "file": "avatars/avatar_003.jpg",
     "thumb": "thumbs/avatar_003.jpg",
     "size": 27534,
-    "source": ""
+    "source": "anime256/112771-1437.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "明亮"
   },
   {
     "id": 4,
     "file": "avatars/avatar_004.jpg",
     "thumb": "thumbs/avatar_004.jpg",
     "size": 21085,
-    "source": ""
+    "source": "anime256/116787-1994.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 5,
     "file": "avatars/avatar_005.jpg",
     "thumb": "thumbs/avatar_005.jpg",
     "size": 22501,
-    "source": ""
+    "source": "anime256/123773-2863.jpg",
+    "hair_color": "绿",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 6,
     "file": "avatars/avatar_006.jpg",
     "thumb": "thumbs/avatar_006.jpg",
     "size": 19805,
-    "source": ""
+    "source": "anime256/130273-3308.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 7,
     "file": "avatars/avatar_007.jpg",
     "thumb": "thumbs/avatar_007.jpg",
     "size": 24651,
-    "source": ""
+    "source": "anime256/13861-4031.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 8,
     "file": "avatars/avatar_008.jpg",
     "thumb": "thumbs/avatar_008.jpg",
     "size": 33269,
-    "source": ""
+    "source": "anime256/14544-5063.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "梦幻"
   },
   {
     "id": 9,
     "file": "avatars/avatar_009.jpg",
     "thumb": "thumbs/avatar_009.jpg",
     "size": 36274,
-    "source": ""
+    "source": "anime256/150402-5489.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 10,
     "file": "avatars/avatar_010.jpg",
     "thumb": "thumbs/avatar_010.jpg",
     "size": 31425,
-    "source": ""
+    "source": "anime256/157732-6268.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "明亮"
   },
   {
     "id": 11,
     "file": "avatars/avatar_011.jpg",
     "thumb": "thumbs/avatar_011.jpg",
     "size": 23000,
-    "source": ""
+    "source": "anime256/168011-7163.jpg",
+    "hair_color": "紫",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 12,
     "file": "avatars/avatar_012.jpg",
     "thumb": "thumbs/avatar_012.jpg",
     "size": 17220,
-    "source": ""
+    "source": "anime256/171328-7488.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 13,
     "file": "avatars/avatar_013.jpg",
     "thumb": "thumbs/avatar_013.jpg",
     "size": 26330,
-    "source": ""
+    "source": "anime256/175092-8106.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 14,
     "file": "avatars/avatar_014.jpg",
     "thumb": "thumbs/avatar_014.jpg",
     "size": 20496,
-    "source": ""
+    "source": "anime256/184802-9081.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "冷",
+    "mood": "柔和"
   },
   {
     "id": 15,
     "file": "avatars/avatar_015.jpg",
     "thumb": "thumbs/avatar_015.jpg",
     "size": 23979,
-    "source": ""
+    "source": "anime256/188621-9485.jpg",
+    "hair_color": "棕",
+    "hair_style": "短发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 16,
     "file": "avatars/avatar_016.jpg",
     "thumb": "thumbs/avatar_016.jpg",
     "size": 13912,
-    "source": ""
+    "source": "anime256/199030-10521.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "梦幻"
   },
   {
     "id": 17,
     "file": "avatars/avatar_017.jpg",
     "thumb": "thumbs/avatar_017.jpg",
     "size": 27534,
-    "source": ""
+    "source": "anime256/205637-11029.jpg",
+    "hair_color": "粉",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "明亮"
   },
   {
     "id": 18,
     "file": "avatars/avatar_018.jpg",
     "thumb": "thumbs/avatar_018.jpg",
     "size": 29869,
-    "source": ""
+    "source": "anime256/20989-11528.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "梦幻"
   },
   {
     "id": 19,
     "file": "avatars/avatar_019.jpg",
     "thumb": "thumbs/avatar_019.jpg",
     "size": 35460,
-    "source": ""
+    "source": "anime256/219261-12421.jpg",
+    "hair_color": "蓝",
+    "hair_style": "双马尾",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 20,
     "file": "avatars/avatar_020.jpg",
     "thumb": "thumbs/avatar_020.jpg",
     "size": 29663,
-    "source": ""
+    "source": "anime256/225480-12824.jpg",
+    "hair_color": "黑",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 21,
     "file": "avatars/avatar_021.jpg",
     "thumb": "thumbs/avatar_021.jpg",
     "size": 16488,
-    "source": ""
+    "source": "anime256/233099-13547.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 22,
     "file": "avatars/avatar_022.jpg",
     "thumb": "thumbs/avatar_022.jpg",
     "size": 26961,
-    "source": ""
+    "source": "anime256/242582-14296.jpg",
+    "hair_color": "白",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 23,
     "file": "avatars/avatar_023.jpg",
     "thumb": "thumbs/avatar_023.jpg",
     "size": 29659,
-    "source": ""
+    "source": "anime256/246318-14949.jpg",
+    "hair_color": "紫",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "冷",
+    "mood": "梦幻"
   },
   {
     "id": 24,
     "file": "avatars/avatar_024.jpg",
     "thumb": "thumbs/avatar_024.jpg",
     "size": 24707,
-    "source": ""
+    "source": "anime256/256346-15735.jpg",
+    "hair_color": "金",
+    "hair_style": "短发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "明亮"
   },
   {
     "id": 25,
     "file": "avatars/avatar_025.jpg",
     "thumb": "thumbs/avatar_025.jpg",
     "size": 19628,
-    "source": ""
+    "source": "anime256/263441-16315.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 26,
     "file": "avatars/avatar_026.jpg",
     "thumb": "thumbs/avatar_026.jpg",
     "size": 17951,
-    "source": ""
+    "source": "anime256/270523-16848.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 27,
     "file": "avatars/avatar_027.jpg",
     "thumb": "thumbs/avatar_027.jpg",
     "size": 25521,
-    "source": ""
+    "source": "anime256/280293-17732.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 28,
     "file": "avatars/avatar_028.jpg",
     "thumb": "thumbs/avatar_028.jpg",
     "size": 28038,
-    "source": ""
+    "source": "anime256/287573-18344.jpg",
+    "hair_color": "黑",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 29,
     "file": "avatars/avatar_029.jpg",
     "thumb": "thumbs/avatar_029.jpg",
     "size": 25110,
-    "source": ""
+    "source": "anime256/294577-18874.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "暖",
+    "mood": "梦幻"
   },
   {
     "id": 30,
     "file": "avatars/avatar_030.jpg",
     "thumb": "thumbs/avatar_030.jpg",
     "size": 23609,
-    "source": ""
+    "source": "anime256/308018-19743.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "冷",
+    "mood": "梦幻"
   },
   {
     "id": 31,
     "file": "avatars/avatar_031.jpg",
     "thumb": "thumbs/avatar_031.jpg",
     "size": 28300,
-    "source": ""
+    "source": "anime256/31519-20397.jpg",
+    "hair_color": "白",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 32,
     "file": "avatars/avatar_032.jpg",
     "thumb": "thumbs/avatar_032.jpg",
     "size": 26790,
-    "source": ""
+    "source": "anime256/328374-21126.jpg",
+    "hair_color": "蓝",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 33,
     "file": "avatars/avatar_033.jpg",
     "thumb": "thumbs/avatar_033.jpg",
     "size": 27166,
-    "source": ""
+    "source": "anime256/3581-21975.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "柔和"
   },
   {
     "id": 34,
     "file": "avatars/avatar_034.jpg",
     "thumb": "thumbs/avatar_034.jpg",
     "size": 33413,
-    "source": ""
+    "source": "anime256/38279-22333.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 35,
     "file": "avatars/avatar_035.jpg",
     "thumb": "thumbs/avatar_035.jpg",
     "size": 30378,
-    "source": ""
+    "source": "anime256/4317-23316.jpg",
+    "hair_color": "棕",
+    "hair_style": "短发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "明亮"
   },
   {
     "id": 36,
     "file": "avatars/avatar_036.jpg",
     "thumb": "thumbs/avatar_036.jpg",
     "size": 24609,
-    "source": ""
+    "source": "anime256/48295-23921.jpg",
+    "hair_color": "蓝",
+    "hair_style": "短发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "冷",
+    "mood": "明亮"
   },
   {
     "id": 37,
     "file": "avatars/avatar_037.jpg",
     "thumb": "thumbs/avatar_037.jpg",
     "size": 30186,
-    "source": ""
+    "source": "anime256/55426-24859.jpg",
+    "hair_color": "绿",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 38,
     "file": "avatars/avatar_038.jpg",
     "thumb": "thumbs/avatar_038.jpg",
     "size": 27835,
-    "source": ""
+    "source": "anime256/61816-25367.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "中性",
+    "mood": "柔和"
   },
   {
     "id": 39,
     "file": "avatars/avatar_039.jpg",
     "thumb": "thumbs/avatar_039.jpg",
     "size": 23408,
-    "source": ""
+    "source": "anime256/68659-26114.jpg",
+    "hair_color": "金",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 40,
     "file": "avatars/avatar_040.jpg",
     "thumb": "thumbs/avatar_040.jpg",
     "size": 27711,
-    "source": ""
+    "source": "anime256/72259-26755.jpg",
+    "hair_color": "粉",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "无",
+    "mood": "梦幻"
   },
   {
     "id": 41,
     "file": "avatars/avatar_041.jpg",
     "thumb": "thumbs/avatar_041.jpg",
     "size": 25439,
-    "source": ""
+    "source": "anime256/7651-27489.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 42,
     "file": "avatars/avatar_042.jpg",
     "thumb": "thumbs/avatar_042.jpg",
     "size": 35030,
-    "source": ""
+    "source": "anime256/82137-27976.jpg",
+    "hair_color": "青",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "冷",
+    "mood": "梦幻"
   },
   {
     "id": 43,
     "file": "avatars/avatar_043.jpg",
     "thumb": "thumbs/avatar_043.jpg",
     "size": 27326,
-    "source": ""
+    "source": "anime256/88860-28537.jpg",
+    "hair_color": "黑",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "冷",
+    "mood": "梦幻"
   },
   {
     "id": 44,
     "file": "avatars/avatar_044.jpg",
     "thumb": "thumbs/avatar_044.jpg",
     "size": 20082,
-    "source": ""
+    "source": "anime256/96376-29321.jpg",
+    "hair_color": "蓝",
+    "hair_style": "短发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 45,
     "file": "avatars/avatar_045.jpg",
     "thumb": "thumbs/avatar_045.jpg",
     "size": 30428,
-    "source": ""
+    "source": "anime256/wallhaven-0qk8pd-154.jpg",
+    "hair_color": "绿",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   },
   {
     "id": 46,
     "file": "avatars/avatar_046.jpg",
     "thumb": "thumbs/avatar_046.jpg",
     "size": 25086,
-    "source": ""
+    "source": "anime256/wallhaven-4okydp-1143.jpg",
+    "hair_color": "黑",
+    "hair_style": "长发",
+    "glasses": true,
+    "bg_tone": "暗",
+    "bg_hue": "暖",
+    "mood": "梦幻"
   },
   {
     "id": 47,
     "file": "avatars/avatar_047.jpg",
     "thumb": "thumbs/avatar_047.jpg",
     "size": 29672,
-    "source": ""
+    "source": "anime256/wallhaven-765my9-1707.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "暗",
+    "bg_hue": "中性",
+    "mood": "柔和"
   },
   {
     "id": 48,
     "file": "avatars/avatar_048.jpg",
     "thumb": "thumbs/avatar_048.jpg",
     "size": 29866,
-    "source": ""
+    "source": "anime256/wallhaven-g7myzd-2454.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "冷",
+    "mood": "柔和"
   },
   {
     "id": 49,
     "file": "avatars/avatar_049.jpg",
     "thumb": "thumbs/avatar_049.jpg",
     "size": 33930,
-    "source": ""
+    "source": "anime256/wallhaven-negeyk-3227.jpg",
+    "hair_color": "粉",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "梦幻"
   },
   {
     "id": 50,
     "file": "avatars/avatar_050.jpg",
     "thumb": "thumbs/avatar_050.jpg",
     "size": 29059,
-    "source": ""
+    "source": "anime256/wallhaven-v9l9z3-4024.jpg",
+    "hair_color": "棕",
+    "hair_style": "长发",
+    "glasses": false,
+    "bg_tone": "亮",
+    "bg_hue": "暖",
+    "mood": "柔和"
   }
 ]
